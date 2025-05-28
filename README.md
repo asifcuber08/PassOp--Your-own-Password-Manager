@@ -1,12 +1,25 @@
-# React + Vite
+# This is [React + Vite](https://vite.dev/guide/) Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## How to Run
 
-Currently, two official plugins are available:
+First, copy the repo and
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install the node module, type this in your terminal:
 
-## Expanding the ESLint configuration
+```bash
+npm install
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Second, type this to start your server:
+
+```bash
+npm run dev
+```
+
+
+#### You can start editing the page by modifying `src/components/Manager.jsx`. The page auto-updates as you edit the file.
+
+### I made this website for learing purpose don't use it to save credential password. If any one make this webpage amazing or added any fetures you can pull the request, if i will like it, i will accept it.
+
+
+
